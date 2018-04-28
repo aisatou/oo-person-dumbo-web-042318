@@ -1,4 +1,5 @@
 # your code goes here
+<<<<<<< HEAD
 class Person
   attr_reader :name, :happiness, :bank_account, :hygiene
 
@@ -134,3 +135,5 @@ def call_friend(friend)
       end
     end
 end
+=======
+>>>>>>> 1f409fc5f3a1d3f7508838efedf0843c6f88cd81
